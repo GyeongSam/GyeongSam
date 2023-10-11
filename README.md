@@ -9,7 +9,7 @@
 
 **주 사용 언어 - C++**<br/>
 **주 사용 게임엔진 - Unity/C\#**<br/>
-그 외 프로젝트에 사용해본 기술스택- Photon PUN2/Fusion, Python, JavaScript, vue.js, django... <br/>
+그 외 프로젝트에 사용해본 기술스택- Photon PUN2/Fusion, Python/django (backend), JavaScript/Vue.js (frontend) ... <br/>
 
 **참여 프로젝트 목록**
 ---
