@@ -22,4 +22,4 @@
 ---
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rud7tka)
 ![Sovled.ac Weed](https://mazandi.herokuapp.com/api?handle=rud7tka&theme=warm)
-[solved.com 프로필(링크)](https://solved.ac/profile/rud7tka)
+<br/>[solved.com 프로필(링크)](https://solved.ac/profile/rud7tka)
