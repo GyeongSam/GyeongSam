@@ -14,8 +14,8 @@
 **기술 스택**
 ---
 
-**주 언어 - C++**<br/>
-**주 기술스택 - Unity/C\#**<br/>
+**주 언어 - C++ / C#**<br/>
+**주 기술스택 - Unity**<br/>
 그 외 프로젝트에 사용해본 기술스택- Photon PUN2/Fusion, Python/django (backend), JavaScript/Vue.js (frontend) ... <br/>
 
 **알고리즘 좋아합니다**
