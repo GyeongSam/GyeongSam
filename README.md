@@ -1,6 +1,6 @@
 **안녕하세요**<br/>
-**분석하며 행동하는 게임 클라이언트 프로그래머 송경삼입니다**<br/>
-**들려주신 소중한 시간 정말 감사드립니다!**
+**기본기와 개선의지로 성장하는 게임 프로그래머 송경삼입니다**<br/>
+**방문해주셔서 감사합니다!**
 ===
 
 **프로젝트 링크**
@@ -13,13 +13,15 @@
 
 **기술 스택**
 ---
-
-**주 언어 - C++ / C#**<br/>
-**주 기술스택 - Unity**<br/>
-그 외 프로젝트에 사용해본 기술스택- Photon PUN2/Fusion, Python/django (backend), JavaScript/Vue.js (frontend) ... <br/>
+**주 기술스택 - C++/C#/Unity**<br/>
+그 외 프로젝트 경험- Unreal / Photon / Python/django (backend), JavaScript/Vue.js (frontend) ... <br/>
 
 **알고리즘 좋아합니다**
 ---
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rud7tka)
 ![Sovled.ac Weed](https://mazandi.herokuapp.com/api?handle=rud7tka&theme=warm)
 <br/>[solved.com 프로필(링크)](https://solved.ac/profile/rud7tka)
+
+**개인 blog**
+---
+[solved.com 개인 블로그 링크](https://gs32.tistory.com/)
