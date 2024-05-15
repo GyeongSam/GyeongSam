@@ -24,4 +24,4 @@
 
 **개인 blog**
 ---
-[solved.com 개인 블로그 링크](https://gs32.tistory.com/)
+[개인 블로그 링크](https://gs32.tistory.com/)
